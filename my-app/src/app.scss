@@ -1,3 +1,9 @@
 h2 {
     width: 30px;
 }
+
+$colorato: orange;
+
+h1, h2, h3 {
+    color: $colorato;
+}
